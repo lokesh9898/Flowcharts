@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T07:52:57.960Z" agent="5.0 (Windows)" etag="vqF64fUImJhbRlSAZesG" version="13.8.8"><diagram id="XGLPVD4cjz4XyxKaMWUF" name="Page-1">3VjbUtswEP2aTJ/IJHbihMcSoFACZSYwhb50hK3YAlkyshwn/fquZPkWBRqG0MzwksjHWl12z9Gu3HEn8fKbQEl0yQNMO04vWHbc447jjL0x/CpgVQCD0WEBhIIEBdSvgRn5gw3YM2hGApy2OkrOqSRJG/Q5Y9iXLQwJwfN2tzmn7VkTFGILmPmI2uhPEsjIbGvYq/EzTMKonLnfM29iVHY2QBqhgOcNyD3puBPBuSxa8XKCqfJd6ZfC7vSFt9XCBGZyG4Ob59HqgTzj6S920z8bUPY7zg8csza5KjeMA9i/eeRCRjzkDNGTGj0SPGMBVqP24KnuM+U8AbAP4COWcmWCiTLJAYpkTM1bvCTyrtG+V0N1h+bpeGlG1g8r81CsUy3uxe0bKOWZ8PEre+5XzgfSYh5jKVZgJzBFkiza4yNDn7DqV5lecwIzOz3DdGdk4myI7vXaI0gkQiyNUR0maDRWUUM6eG8IpFnvAtHM7GDC44SnRGKAz1kqEVX748yKeB1PFZA8ApNZgrQLc9B0O3ZmGiwkXr4eCdvD5ZnQdpRrHvNaXv1SM1FDWusObYak5c23um5ouW4fotghwV1zTmrGvdJv8E4hvMvrruX1c0YkQcpwTqhiLUk7iggehU0cPUAjlNpR3nOmDs2jGBHWXYEHK6TsDCtq9F8PJqWQPfB/4fr6qeBsSfbxR5F99NnIPtiS7N4+yT6wyS41C7SpLzDSx/QMiwXxVQv5PvhY9fliCSBd+L99pQ2b61+6ypYFaj3FkQ+tB8KCg0wSCiYTNatylG49Phf/bJ6WHaBCEvA7+XE1u51a1Ph4wQzWsoMztATjHG4QzOijBHP42QTjbSmY8T4F41leP+Y5oxwFFcHPK4LLSElmcnqlyA71dCoVM5V3/CdV3jeSiCiVouogY5iC6rCoxqWEPdXvCm+W7+AqIgkzZZROU6nFBqjzE9WM8BJBkGGuBAsCboE5KvS6hJx/p6E5WeLyZrQrla2lpf7Izktu/4PyUn4xvZ1fpIN0zk68X7Ov0+/3d/u5iOxQVe9Vy+ZLhVcefyZOQ+f/3irGG4q0tupms0u1nBDrZSPKWahpBCxqJDbUKa7eWmYMxTgoRLlWtlV5rEw/m6q52qinwi/0SKcLBI1TkSldBkR0O9W1e5/Zyx3YutqYvqrPBjsXln0xvOK5WpGOi9B1NvNpFhAduSKqtZf98ha5XmiXRbqt223La5QmxRcbfcDtJgBDd9wdvaCZZs09crrDDVGo4TfEQfGu+opTKK/+FOae/AU=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-02T08:02:39.917Z" agent="5.0 (Windows)" etag="7U5d9zmCbkrHxvE1PFJJ" version="13.8.8" type="github">
+  <diagram id="XGLPVD4cjz4XyxKaMWUF" name="Main.yml">
+    <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tq7ybiqeLZnT1H4ln_mw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Tq7ybiqeLZnT1H4ln_mw-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tq7ybiqeLZnT1H4ln_mw-1" value="Composite Installation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq7ybiqeLZnT1H4ln_mw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Tq7ybiqeLZnT1H4ln_mw-3" target="Tq7ybiqeLZnT1H4ln_mw-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq7ybiqeLZnT1H4ln_mw-3" value="Initial file is &lt;b&gt;&quot;main.yml&quot;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq7ybiqeLZnT1H4ln_mw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Tq7ybiqeLZnT1H4ln_mw-4" target="Tq7ybiqeLZnT1H4ln_mw-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq7ybiqeLZnT1H4ln_mw-4" value="It will create Service account &#39;&lt;b&gt;svc_cis&lt;/b&gt;&#39;. and install bind-utils, wget, jq, nfs-utils for CONSUL" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="25" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq7ybiqeLZnT1H4ln_mw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Tq7ybiqeLZnT1H4ln_mw-6" target="Tq7ybiqeLZnT1H4ln_mw-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq7ybiqeLZnT1H4ln_mw-6" value="Download and Install the CFN bootstrap package &lt;br&gt;on the server and link the source and destination files" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="170" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wKLUfKs4sfnE6ZSALJYX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Tq7ybiqeLZnT1H4ln_mw-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tq7ybiqeLZnT1H4ln_mw-8" value="Install the SSM agent along with create a folder named &quot;&lt;b&gt;CONSUL&lt;/b&gt;&quot; under /var/run dir. " style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="340" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wKLUfKs4sfnE6ZSALJYX-1" value="Now we are including the &quot;composite.yml&quot; file " style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="538.75" y="520" width="172.5" height="172.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
