@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T08:02:39.917Z" agent="5.0 (Windows)" etag="7U5d9zmCbkrHxvE1PFJJ" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T08:01:28.298Z" agent="5.0 (Windows)" etag="JJ-__NM-Ryk5bktHPg7R" version="13.8.8" type="github" pages="2">
   <diagram id="XGLPVD4cjz4XyxKaMWUF" name="Main.yml">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,6 +40,53 @@
         </mxCell>
         <mxCell id="wKLUfKs4sfnE6ZSALJYX-1" value="Now we are including the &quot;composite.yml&quot; file " style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="538.75" y="520" width="172.5" height="172.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NPzj2Yur6BZLzmvW8vN-" name="Composite.yml">
+    <mxGraphModel dx="1021" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-0" />
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-1" parent="eSlqbiRU8Vi40XzxPl2E-0" />
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eSlqbiRU8Vi40XzxPl2E-1" source="eSlqbiRU8Vi40XzxPl2E-2" target="eSlqbiRU8Vi40XzxPl2E-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-2" value="Composite.yml" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eSlqbiRU8Vi40XzxPl2E-1">
+          <mxGeometry x="20" y="-100" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eSlqbiRU8Vi40XzxPl2E-1" source="eSlqbiRU8Vi40XzxPl2E-3" target="eSlqbiRU8Vi40XzxPl2E-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-3" value="First Step:&lt;br&gt;Initial it will install python Modules logzero and backoff" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eSlqbiRU8Vi40XzxPl2E-1">
+          <mxGeometry x="20" y="50" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eSlqbiRU8Vi40XzxPl2E-1" source="eSlqbiRU8Vi40XzxPl2E-9" target="eSlqbiRU8Vi40XzxPl2E-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-9" value="After that, It will create new directories under this location &lt;span style=&quot;color: rgb(3 , 47 , 98) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;/data/apps/cis/ &lt;br&gt;7.0.7,files and adapters&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="eSlqbiRU8Vi40XzxPl2E-1">
+          <mxGeometry x="313" y="40" width="287" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eSlqbiRU8Vi40XzxPl2E-1" source="eSlqbiRU8Vi40XzxPl2E-13" target="eSlqbiRU8Vi40XzxPl2E-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-13" value="It will create system link between 7.0.7 and current folder&lt;br&gt;/data/apps/cis/7.0.7 to /data/apps/files/current" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="eSlqbiRU8Vi40XzxPl2E-1">
+          <mxGeometry x="670" y="40" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eSlqbiRU8Vi40XzxPl2E-1" source="eSlqbiRU8Vi40XzxPl2E-17" target="eSlqbiRU8Vi40XzxPl2E-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-17" value="&lt;div&gt;Now copy the artifacts from S3(&lt;span style=&quot;color: rgb(3 , 47 , 98) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;sie-nav-dev-artifacts-pdx)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(3 , 47 , 98) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;/span&gt; to /data/apps/cis/files folder in the server &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. ldap.properties&lt;/div&gt;&lt;div&gt;2. &lt;span style=&quot;color: rgb(3 , 47 , 98) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;TIB_tdv_server_7.0.7_linux_x86_64.bin&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. composite_backup_d1.car&lt;/div&gt;&lt;div&gt;4. cacerts&lt;/div&gt;&lt;div&gt;5.composite_backup_e1.car&lt;/div&gt;&lt;div&gt;6.composite_backup.d1.car&lt;/div&gt;&lt;div&gt;7.customsjars.zip&lt;/div&gt;&lt;div&gt;8. ojdbc6.jar&lt;/div&gt;&lt;div&gt;9. &lt;span style=&quot;color: rgb(3 , 47 , 98) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;mysql-connector-java-5.1.39-bin.jar&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="eSlqbiRU8Vi40XzxPl2E-1">
+          <mxGeometry x="600" y="240" width="380" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eSlqbiRU8Vi40XzxPl2E-1" source="eSlqbiRU8Vi40XzxPl2E-19" target="eSlqbiRU8Vi40XzxPl2E-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-19" value="make the &lt;b&gt;svc_cis&lt;/b&gt; owner to all files under the /data/apps/cis/files folder" style="whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="eSlqbiRU8Vi40XzxPl2E-1">
+          <mxGeometry x="90" y="280" width="255" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eSlqbiRU8Vi40XzxPl2E-22" value="Copy all files to under files folder " style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="eSlqbiRU8Vi40XzxPl2E-1">
+          <mxGeometry x="93.75" y="600" width="247.5" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
